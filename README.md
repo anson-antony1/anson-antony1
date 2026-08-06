@@ -1,8 +1,8 @@
 ## Anson Antony
 
-Computer Engineering at the University of Florida, B.S. May 2028. I build mobile
-and full-stack products end to end — design, backend, native code, and the CI
-that keeps them honest.
+Computer Engineering at the University of Florida. I build mobile and
+full-stack products end to end — design, backend, native code, and the CI that
+keeps them honest.
 
 **Currently**
 
@@ -13,11 +13,20 @@ that keeps them honest.
   architecture, three engineering deep-dives, and selected source.
 - **Software Engineer at StopSafe.**
 
+**Also here**
+
+- **[FluxCare](https://github.com/anson-antony1/dreamhacks2025)** — an
+  AI-assisted primary care platform. The risk engine implements the Framingham
+  CVD and diabetes models directly from their published coefficients rather
+  than training on hackathon data.
+- **[ArbitrageX](https://github.com/anson-antony1/DSAProject2)** — crypto
+  arbitrage detection that models exchange rates as a graph and searches for
+  profitable trade cycles.
+- **[ipd-groq](https://github.com/anson-antony1/ipd-groq)** — an Iterated
+  Prisoner's Dilemma tournament between two Llama models, each served behind
+  its own FastAPI endpoint, seeded so runs reproduce.
+
 **Working with** — TypeScript · Python · Swift · React Native · Next.js ·
 PostgreSQL · FastAPI · Deno · Supabase
-
-**Also here** — [ipd-groq](https://github.com/anson-antony1/ipd-groq), an
-Iterated Prisoner's Dilemma tournament between two Llama models, each served
-behind its own FastAPI endpoint.
 
 Reach me at **ansonkanniman@gmail.com**.
