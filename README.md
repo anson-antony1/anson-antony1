@@ -7,9 +7,10 @@ keeps them honest.
 **Currently**
 
 - **[Backd](https://github.com/anson-antony1/backd-showcase)** — an iOS
-  accountability app, built solo, on TestFlight. React Native and Swift over
-  Supabase/Postgres, with row-level security on all 52 tables and 9 Deno edge
-  functions. The source is private; the showcase repo walks through the
+  accountability app, built solo, now
+  [live on the App Store](https://apps.apple.com/app/id6782731742). React Native
+  and Swift over Supabase/Postgres, with row-level security on all 81 tables and
+  18 Deno edge functions. The source is private; the showcase repo walks through the
   architecture, three engineering deep-dives, and selected source.
 - **Software Engineer at StopSafe.**
 
